@@ -161,7 +161,7 @@ will be revised accordingly.
 If you have any questions regarding this Privacy Policy, please contact
 us:
 
-**Email:** techoudarya@gmail.com
+**Email:** oudaryamayburai@gmail.com
 **Website:** https://www.hobu.in
 
 ------------------------------------------------------------------------

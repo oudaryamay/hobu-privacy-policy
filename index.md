@@ -39,7 +39,7 @@ App.
 
 ### A. Personal Information
 
--   **Account Data:** Name, email address, and phone number.\
+-   **Account Data:** Name, email address, and phone number.
 -   **Household Data:** Grocery items, stock levels, shopping lists,
     reminders, and household details.
 

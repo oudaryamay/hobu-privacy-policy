@@ -48,6 +48,10 @@ App.
 -   Device model, operating system version, and unique identifiers.
 -   App interactions, such as features used and time spent.
 
+### C. Camera Permission
+
+-   We request access to your device's camera solely for the purpose of scanning barcodes and QR codes to identify products. Images captured by the camera are processed locally on your device in real-time and are not stored, recorded, or transmitted to our servers.
+
 ------------------------------------------------------------------------
 
 ## 2. How We Use Your Information

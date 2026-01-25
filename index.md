@@ -53,9 +53,11 @@ App.
 -   We request access to your device's camera solely for the purpose of scanning barcodes and QR codes to identify products. Images captured by the camera are processed locally on your device in real-time and are not stored, recorded, or transmitted to our servers.
 
 ### D. Photo/Storage Usage
+
 -   We access your device's photo library only to allow you to select and upload images for your profile, household, or receipts. Files are stored locally.
 
 ### E. Notification Data
+
 -   We use local notifications to deliver scheduled tasks and maintenance reminders. No notification data is sent to external servers
 ------------------------------------------------------------------------
 

@@ -59,6 +59,7 @@ App.
 ### E. Notification Data
 
 -   We use local notifications to deliver scheduled tasks and maintenance reminders. No notification data is sent to external servers.
+  
 ------------------------------------------------------------------------
 
 ## 2. How We Use Your Information

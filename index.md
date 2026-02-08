@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Hobu
 
-**Last Updated: January 26, 2026**
+**Last Updated: February 8, 2026**
 
 Hobu ("we," "our," or "us") provides this Privacy Policy to explain how
 we collect, use, disclose, and protect your information when you use the
@@ -178,7 +178,7 @@ will be revised accordingly.
 If you have any questions regarding this Privacy Policy, please contact
 us:
 
-**Email:** oudaryamayburai@gmail.com
+**Email:** hobu.team@gmail.com
 **Website:** https://www.hobu.in
 
 ------------------------------------------------------------------------

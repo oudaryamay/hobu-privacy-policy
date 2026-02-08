@@ -86,6 +86,11 @@ To improve functionality, we use:
 
 -   **Google Play Services**
 -   **YouTube API Services** (for tutorial videos)
+-   **Google Sign-In**  We use Google Sign-In to authenticate users and securely manage account access. We collect your name, email address, and profile picture from your Google account to create your Hobu profile. This data is used solely for identification and personalization within the App.
+-   **Google Drive (Cloud Backups)** If you choose to use the Cloud Backup feature, the App generates a secure backup of your local database and images. This backup file is uploaded directly to your own personal Google Drive account.
+    - User Control: You retain full ownership and control of these files.
+    - Access: The App only accesses the specific folder created for Hobu backups (Hobu-Backup) and does not read or modify any other files in your Google Drive.
+    - Storage: Backup files are stored on Google's servers and are subject to Google's Privacy Policy and Terms of Service.
 
 These providers have access only to the data required to perform their
 tasks.

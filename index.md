@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Hobu
 
-**Last Updated: February 8, 2026**
+**Last Updated: February 12, 2026**
 
 Hobu ("we," "our," or "us") provides this Privacy Policy to explain how
 we collect, use, disclose, and protect your information when you use the
@@ -59,6 +59,12 @@ App.
 ### E. Notification Data
 
 -   We use local notifications to deliver scheduled tasks and maintenance reminders. No notification data is sent to external servers.
+
+### F. Nearby Interaction Data (Hobu Connect)
+
+To facilitate offline synchronization between family members, we collect and share:
+-   **Device Display Name:** A name you choose to identify your device to family members (e.g., "Mom's Phone").
+-   **Unique Device Identifier:** A persistent, randomly generated UUID used only to establish and maintain trusted connections between your family's devices.
   
 ------------------------------------------------------------------------
 
@@ -71,6 +77,7 @@ We use collected information to:
 -   Send notifications such as low-stock alerts
 -   Improve performance, stability, and feature quality
 -   Maintain app security and prevent misuse
+-   **Offline Peer-to-Peer Syncing (Hobu Connect):** We use the Google Nearby Connections API to discover and sync data with other devices in your home without an internet connection.
 
 We do **not** sell your personal information.
 
@@ -144,8 +151,10 @@ This action cannot be undone.
 
 ### B. Permissions
 
-You can modify or revoke App permissions (notifications, etc.)
-through your device settings.
+You can modify or revoke App permissions through your device settings. Key permissions include:
+-   **Location & Bluetooth:** Used exclusively by the **Hobu Connect** feature to discover and connect to your family members' devices for offline data synchronization. We do not use these permissions for tracking your movement or for advertising.
+-   **Notifications:** Used for low-stock alerts and task reminders.
+-   **Camera:** Used for scanning Barcodes and QR codes (Quick Connect).
 
 ------------------------------------------------------------------------
 

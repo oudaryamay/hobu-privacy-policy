@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Hobu
 
-**Last Updated: February 12, 2026**
+**Last Updated: February 22, 2026**
 
 Hobu ("we," "our," or "us") provides this Privacy Policy to explain how
 we collect, use, disclose, and protect your information when you use the
@@ -42,11 +42,12 @@ App.
 -   **Account Data:** Name, email address, and phone number.
 -   **Household Data:** Grocery items, stock levels, shopping lists,
     reminders, and household details.
+-   **Conversational Data:** Text inputs and voice commands sent to the AI Assistant for processing and execution.
 
 ### B. Device and Usage Information
 
 -   Device model, operating system version, and unique identifiers.
--   App interactions, such as features used and time spent.
+-   **App interactions:** We track which features you use (e.g., how often you add items to the shopping list) to provide personalized "Smart Tips" and help you discover unused features.
 
 ### C. Camera Permission
 
@@ -77,6 +78,7 @@ We use collected information to:
 -   Send notifications such as low-stock alerts
 -   Improve performance, stability, and feature quality
 -   Maintain app security and prevent misuse
+-   **AI Processing:** We use machine learning and Natural Language Processing (NLP) to understand your requests, extract relevant data (like quantities and dates), and detect your emotional state (sentiment) to provide empathetic responses.
 -   **Offline Peer-to-Peer Syncing (Hobu Connect):** We use the Google Nearby Connections API to discover and sync data with other devices in your home without an internet connection.
 
 We do **not** sell your personal information.
@@ -155,6 +157,7 @@ You can modify or revoke App permissions through your device settings. Key permi
 -   **Location & Bluetooth:** Used exclusively by the **Hobu Connect** feature to discover and connect to your family members' devices for offline data synchronization. We do not use these permissions for tracking your movement or for advertising.
 -   **Notifications:** Used for low-stock alerts and task reminders.
 -   **Camera:** Used for scanning Barcodes and QR codes (Quick Connect).
+-   **Microphone:** Used exclusively for processing voice commands and speech-to-text. We do not record or store audio data on our servers.
 
 ------------------------------------------------------------------------
 

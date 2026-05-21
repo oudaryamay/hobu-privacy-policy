@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Hobu
 
-**Last Updated: February 22, 2026**
+**Last Updated: May 21, 2026**
 
 Hobu ("we," "our," or "us") provides this Privacy Policy to explain how
 we collect, use, disclose, and protect your information when you use the
@@ -158,6 +158,7 @@ You can modify or revoke App permissions through your device settings. Key permi
 -   **Notifications:** Used for low-stock alerts and task reminders.
 -   **Camera:** Used for scanning Barcodes and QR codes (Quick Connect).
 -   **Microphone:** Used exclusively for processing voice commands and speech-to-text. We do not record or store audio data on our servers.
+-   **Contacts:** Used exclusively by the **Emergency Hub** feature to allow you to import household members and device contacts for one-touch crisis dialing and pre-saved SOS text messaging. We do not collect, upload, or share your contact data. All contact information is processed entirely offline on your device.
 
 ------------------------------------------------------------------------
 

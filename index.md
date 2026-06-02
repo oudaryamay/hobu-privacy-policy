@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Hobu
 
-**Last Updated: May 21, 2026**
+**Last Updated: June 02, 2026**
 
 Hobu ("we," "our," or "us") provides this Privacy Policy to explain how
 we collect, use, disclose, and protect your information when you use the
@@ -157,8 +157,11 @@ You can modify or revoke App permissions through your device settings. Key permi
 -   **Location & Bluetooth:** Used exclusively by the **Hobu Connect** feature to discover and connect to your family members' devices for offline data synchronization. We do not use these permissions for tracking your movement or for advertising.
 -   **Notifications:** Used for low-stock alerts and task reminders.
 -   **Camera:** Used for scanning Barcodes and QR codes (Quick Connect).
--   **Microphone:** Used exclusively for processing voice commands and speech-to-text. We do not record or store audio data on our servers.
+-   **Microphone:** Used for processing voice commands and by the **Stealth Blackbox Mode** feature to safely record audio evidence during emergencies. All audio recordings are encrypted and stored **strictly locally** on your device within the app's Digital Vault. We do not upload, transmit, listen to, or store your audio recordings on our servers.
 -   **Contacts:** Used exclusively by the **Emergency Hub** feature to allow you to import household members and device contacts for one-touch crisis dialing and pre-saved SOS text messaging. We do not collect, upload, or share your contact data. All contact information is processed entirely offline on your device.
+-   **Location (GPS):** Used dynamically by the **Emergency Hub** to calculate the distance and bearing to nearby emergency services (e.g., Police Stations, Hospitals) for the "Live Safe Haven Radar", and to automatically embed your exact coordinates into an SOS message sent to your trusted emergency contacts. Your location is **never tracked in the background**, sold to third parties, or stored on our servers.
+-   **SMS & Messaging:** Used by the **Emergency Hub** to generate pre-filled text messages containing your emergency alert and location. The app passes this message to your default SMS or WhatsApp application. We do not silently send SMS messages in the background, nor do we collect or monitor your text message history.
+-   **Sensors (Accelerometer):** Used by the **Fall/Crash Detection** feature to process motion data locally in real-time to detect sudden impacts or crashes. This sensor data is not stored, recorded, or transmitted off your device at any time.
 
 ------------------------------------------------------------------------
 

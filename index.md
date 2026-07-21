@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Hobu
 
-**Last Updated: June 02, 2026**
+**Last Updated: July 21, 2026**
 
 Hobu ("we," "our," or "us") provides this Privacy Policy to explain how
 we collect, use, disclose, and protect your information when you use the
@@ -108,6 +108,9 @@ tasks.
 
 We may disclose data when required to comply with legal obligations or
 governmental requests.
+
+**Promotions and Third-Party Links**
+The app may display promotional content and links to third-party services or affiliate partners (such as external shopping apps). We do not control these third-party websites and are not responsible for their privacy practices. Because our promotional engine is built to be "Offline-First", we do not transmit your Advertising ID (AAID/IDFA), IP address, or behavioral data to fetch these promotions.
 
 We do **not** share data with advertisers or external marketing
 platforms.
